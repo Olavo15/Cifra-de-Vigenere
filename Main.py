@@ -18,4 +18,4 @@ def main():
 if __name__ == "__main__":
     main()
     
-    # Alysson, Aristoteles, Pierre, Olavo 
+   # Alysson, Aristoteles, Pierre, Guilherme e Olavo
